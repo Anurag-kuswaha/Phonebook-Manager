@@ -16,7 +16,7 @@ class PhoneBook {
     int hashfunction(int num) {
         // we need a ,b and p(prime number which is slightly greater than our max size of mobile number)
         // finding a and b  using rand function;
-        return ((long long)((long long)(a * num) + b) % p) % m; //this will gives hash key with least collision A/C video of courseERA
+        return ((long long)((long long)(a * num) + b) % p) % m; //this will gives hash key with least collision 
 
     }
     void add(int num, string name) {
