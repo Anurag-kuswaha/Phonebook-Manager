@@ -5,4 +5,4 @@ A simple phone book manager that should be able to process the following types o
  2- delete number
  3- find name by number
  
-# this is a simple program based on hashing  and implemented using C++
+# this is a simple program based on hashing with chaining and implemented using C++.
